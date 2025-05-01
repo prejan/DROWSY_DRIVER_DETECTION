@@ -1,0 +1,4 @@
+drowsiness detection:
+
+.\drowsy37_env\Scripts\Activate
+python realtime_drowsiness.py 
