@@ -1,0 +1,5 @@
+drowsy home page 
+
+cd "D:\projects\drowsy\HackDSC2021-Drowsiness-Detection-Web-app"
+.\tensorflow_env\Scripts\activate
+streamlit run "Eye_patch_extractor_&_GUI.py"	
